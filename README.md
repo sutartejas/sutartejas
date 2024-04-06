@@ -23,6 +23,11 @@ src="https://img.shields.io/github/followers/sutartejas?logo=github&style=for-th
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
 
+![Tejas's github stats](https://github-readme-stats.vercel.app/api?username=sutartejas&theme=tokyonight&show_icons=true&hide=["issues"])
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sutartejas&theme=tokyonight&layout=compact)
+
+![](https://komarev.com/ghpvc/?username=sutartejas)
+
 
 <h3> 🤝🏻 Connect with Me </h3>
 
