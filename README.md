@@ -1,12 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tejas Sutar
 ======================================================================================================================================
-<h4>A Full-Stack developer</h4>
+<h4>Full-Stack Developer | Senior Analyst at MRO Corp</h4>
 
-- 🔭 I’m currently working on Web development Projects.
-- 🌱 I’m Interested to work on the same.
-- 💬 Ask me about anything. I'm happy to help!
+- 🔭 Currently working on web development projects.
+- 🌱 Interested in furthering my skills in web development.
+- 💬 Ask me about anything related to web development. I'm happy to help!
 - 📫 How to reach me: tejas.sutar09@gmail.com
-- ⚡ Fun fact: I am currently working in MRO Corp as a Senior Analyst.
+
 
 <a href="https://www.github.com/sutartejas" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/sutartejas?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
